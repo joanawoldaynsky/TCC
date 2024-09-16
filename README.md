@@ -1,4 +1,4 @@
-# **Geração de códigos pelo Chat GPT \n Como ele lida com a criação de diferentes tipos de códigos e linguagens**
+## **Geração de códigos pelo Chat GPT - Como ele lida com a criação de diferentes tipos de códigos e linguagens**
 
 ### **Um projeto de TCC que visa explocar a produção de códigos do Chat-GPT**
 
